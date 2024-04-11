@@ -1,3 +1,3 @@
-console.log("hello michael");
-console.log("hello matt rattigan");
+console.log("partner 2 was here");
+
 
